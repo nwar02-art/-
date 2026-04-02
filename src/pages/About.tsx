@@ -18,7 +18,7 @@ export default function About() {
           // Fallback data
           setAboutData({
             title: "About FuriE",
-            description: "자체 솔루션을 보유한 FuriE은 다수 프로젝트 성공 경험에서 축적된 시스템 구축 Know-How를 바탕으로 전문적이고 유연한 컨설팅 서비스를 제공드립니다.",
+            description: "자체 솔루션(QCM)을 보유한 FuriE은 다수 프로젝트 성공 경험에서 축적된 시스템 구축 Know-How를 바탕으로 전문적이고 유연한 컨설팅 서비스를 제공드립니다.",
             imageUrl: "",
             timeline: [
               { year: '2026', title: '글로벌 금융공학 리딩 컴퍼니 도약', desc: '해외 시장 진출 및 글로벌 파트너십 체결' },
