@@ -22,7 +22,7 @@ export default function About() {
             imageUrl: "",
             timeline: [
               { year: '2026', title: '글로벌 금융공학 리딩 컴퍼니 도약', desc: '해외 시장 진출 및 글로벌 파트너십 체결' },
-              { year: '2024', title: '차세대 리스크 관리 엔진 V3 출시', desc: 'AI 기반 정밀 분석 알고리즘 탑재' },
+              { year: '2024', title: '차세대 리스크 관리 엔진 QCM_V 출시', desc: '로컬 기반 가볍고 빠른 정밀 분석 알고리즘 탑재' },
               { year: '2022', title: '금융감독원 IFRS 프로젝트 수행', desc: '공공기관 및 대형 금융사 컨설팅 수주' },
               { year: '2020', title: 'FuriE 설립', desc: '금융공학 전문가 그룹으로 시작' },
             ]
